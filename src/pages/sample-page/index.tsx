@@ -1,8 +1,8 @@
-import type { ReactElement } from 'react';
-import { Typography } from '@mui/material';
-import PageContainer from '../../src/components/container/PageContainer';
-import DashboardCard from '../../src/components/shared/DashboardCard';
-import FullLayout from '../../src/layouts/full/FullLayout';
+import type { ReactElement } from "react";
+import { Typography } from "@mui/material";
+import PageContainer from "../../../src/components/container/PageContainer";
+import DashboardCard from "../../../src/components/shared/DashboardCard";
+import FullLayout from "../../../src/layouts/full/FullLayout";
 
 const SamplePage = () => {
   return (

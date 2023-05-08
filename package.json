@@ -18,6 +18,7 @@
     "@mui/icons-material": "^5.11.16",
     "@mui/lab": "^5.0.0-alpha.117",
     "@mui/material": "^5.12.2",
+    "@next/font": "^13.4.1",
     "apexcharts": "3.36.3",
     "axios": "^1.4.0",
     "lodash": "^4.17.21",
